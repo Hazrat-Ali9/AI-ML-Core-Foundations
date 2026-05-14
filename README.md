@@ -39,7 +39,7 @@ Optional Deep Learning: TensorFlow / PyTorch
 📁 projects/             # Mini-projects applying AI/ML concepts
 
 🚀 Getting Started
-git clone https://github.com/yourusername/AI-ML-Core-Foundations.git
+git clone https://github.com/Hazrat-Ali9/AI-ML-Core-Foundations
 cd AI-ML-Core-Foundations
 jupyter notebook
 
