@@ -1,5 +1,7 @@
 # 😇 Hazrat Ali
 
+# Software Engineering
+
 🤖 AI-ML-Core-Foundations 🚀
 
 AI-ML-Core-Foundations is a comprehensive repository that provides a solid starting point for Artificial Intelligence (AI) and Machine Learning (ML). It covers the fundamentals of ML algorithms, mathematical foundations, and practical implementations—helping learners transition from theory to hands-on projects with ease.
