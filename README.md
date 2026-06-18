@@ -1,6 +1,6 @@
 # 😇 Hazrat Ali
 
-# Software Engineering || CEO @ Founder SoftTecH Innovation
+# Software Engineering || CEO @ Founder Innovation
 
 # 🤖 AI-ML-Core-Foundations 🚀
 
