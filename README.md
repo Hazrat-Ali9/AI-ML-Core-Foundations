@@ -1,6 +1,6 @@
 # 😇 Hazrat Ali
 
-# Software Engineering || CEO @ Founder Innovation
+# Software Engineering || CEO @ Founder nnovation
 
 # 🤖 AI-ML-Core-Foundations 🚀
 
